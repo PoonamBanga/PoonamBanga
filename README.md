@@ -7,7 +7,7 @@
 - 🧠 I’m deepening my understanding of **Lattice-based KEMs and Cryptographic attacks**
 - 💬 Ask me about **Data Structures, ReactJS, Python, Cryptography**
 - 📫 Reach me at: **poonam2247rintern@gmail.com**
-- ⚡ Fun fact: I solve DSA problems for fun and love hackathons!
+- ⚡ Fun fact: I am new to this shit but will learn quickly.
 
 ---
 
