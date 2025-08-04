@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poonam</h1>
+<h1 align="center">Hi, I'm Poonam</h1>
 <h3 align="center">A passionate Computer Science student & aspiring Security Researcher</h3>
 
 - 🔭 I’m currently doing a research internship in **Quantum Cryptography at IIT Mandi**
