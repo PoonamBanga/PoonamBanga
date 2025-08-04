@@ -37,6 +37,6 @@
 ### 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/poonambanga)
-- 💼 [Portfolio Website](https://your-portfolio-link.com) *(optional)*
+- 💼 [Portfolio Website](https://your-portfolio-link.com) 
 
 
